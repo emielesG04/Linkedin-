@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="458dcac7-28a9-4933-92ec-c7df185ad1e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ingresar.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ingresar.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ingresar_cargo.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ingresar_cargo.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5c3f4ed7a6df297a908c0be62832e71e925b4d7725879be987ad69780bf7a80a.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5c3f4ed7a6df297a908c0be62832e71e925b4d7725879be987ad69780bf7a80a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5c3f4ed7a6df297a908c0be62832e71e925b4d7725879be987ad69780bf7a80a.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5c3f4ed7a6df297a908c0be62832e71e925b4d7725879be987ad69780bf7a80a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5c3f4ed7a6df297a908c0be62832e71e925b4d7725879be987ad69780bf7a80a_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5c3f4ed7a6df297a908c0be62832e71e925b4d7725879be987ad69780bf7a80a_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7d461e9a96d2e97f2831045e1f254b1f290e84ba3bc15e700e3c959f1ab9cfaa.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7d461e9a96d2e97f2831045e1f254b1f290e84ba3bc15e700e3c959f1ab9cfaa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7d461e9a96d2e97f2831045e1f254b1f290e84ba3bc15e700e3c959f1ab9cfaa.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7d461e9a96d2e97f2831045e1f254b1f290e84ba3bc15e700e3c959f1ab9cfaa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7d461e9a96d2e97f2831045e1f254b1f290e84ba3bc15e700e3c959f1ab9cfaa_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7d461e9a96d2e97f2831045e1f254b1f290e84ba3bc15e700e3c959f1ab9cfaa_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-5c3f4ed7a6df297a908c0be62832e71e925b4d7725879be987ad69780bf7a80a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-5c3f4ed7a6df297a908c0be62832e71e925b4d7725879be987ad69780bf7a80a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-7d461e9a96d2e97f2831045e1f254b1f290e84ba3bc15e700e3c959f1ab9cfaa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-7d461e9a96d2e97f2831045e1f254b1f290e84ba3bc15e700e3c959f1ab9cfaa.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XA9yaqrSn8TJotMftSu6HiG4qT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../viajes" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1742699\Documents\Elvis Miguel Mieles Guarin\2-CONFIDENCIAL PERSONAL\RetoLinkedin\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IngresaCargoRunners">
+    <configuration name="IngresaCargoRunners" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Linkedin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tcs.certificacion.tuya.RetoLinkedin.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tcs.certificacion.tuya.RetoLinkedin.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.tcs.certificacion.tuya.RetoLinkedin.runners.IngresaCargoRunners" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ingresarRunners" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="RetoLinkedin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tcs.certificacion.tuya.RetoLinkedin.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tcs.certificacion.tuya.RetoLinkedin.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.tcs.certificacion.tuya.RetoLinkedin.runners.ingresarRunners" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IngresaCargoRunners" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="458dcac7-28a9-4933-92ec-c7df185ad1e3" name="Default Changelist" comment="" />
+      <created>1580478286496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580478286496</updated>
+      <workItem from="1581108636339" duration="916000" />
+      <workItem from="1581339708092" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1580481989939">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1580481989939" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587482649059">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1587482649059" />
+    <state x="402" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580483871709">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1580483871709" />
+    <state x="65" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580482959250">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="65" y="267" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.680@0.0.1280.680" timestamp="1580482959250" />
+    <state x="401" y="0" key="#ingresarRunners" timestamp="1587486640473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="401" y="0" key="#ingresarRunners/0.0.1280.680@0.0.1280.680" timestamp="1587486640473" />
+    <state x="399" y="208" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580484362692">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="208" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1580484362692" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1587650882459">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587650882459" />
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1587571174694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587571174694" />
+    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1587571174694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587571174694" />
+    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1587571174694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587571174694" />
+    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1587571174694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587571174694" />
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog" timestamp="1581339719276">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="170" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581339719276" />
+  </component>
+</project>
